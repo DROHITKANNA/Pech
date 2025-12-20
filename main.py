@@ -6,7 +6,7 @@ print(f"USER: Started with PID {pid}")
 request = {
     "cmd": "write",
     "path": "/home/log.txt",
-    "data": "в 14:35 напомни!!!",
+    "data": "cool message!",
     "client_pid": pid,
     "reply_pipe": 1
 }
@@ -31,4 +31,5 @@ print(f"USER: Result from FS: {data}")
 if __name__ == "__main__":
     create_proc(proc_code1, 1)
     boot()
+
     asyncio.run(scheduler())
