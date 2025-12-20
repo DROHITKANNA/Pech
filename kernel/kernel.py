@@ -75,6 +75,7 @@ async def scheduler():
     while True:
         for pid, p in procs.items():
             if p.server and p.state == CLOSED:
+                p.state = RUNNING
                 asyncio.create_task(run_proc(pid))
         
         active_procs = [p for p in procs.values() if p.state == RUNNING]
@@ -98,4 +99,5 @@ def boot():
             connect(p_id, 1, reply_bus, 0)
             connect(fs_pid, p_id, reply_bus, 1)
         
+
     print(f"[BOOT]: {len(procs)} processes linked via Pech-pipes.")
