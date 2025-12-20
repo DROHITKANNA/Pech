@@ -7,7 +7,8 @@ class Queue:
 
     async def put(self, val):
         if len(self._queue) >= 6:
-            print("[IPC]: Can't write in channel.") 
+            print("[IPC]: Can't write in channel.")
+            return 0
         self._queue.append(val)
         self._ev.set()
 
@@ -25,4 +26,5 @@ class Pipe:
         await self.channels[1 - side].put(data)
 
     async def read(self, side):
+
         return await self.channels[side].get()
