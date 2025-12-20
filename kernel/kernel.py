@@ -45,7 +45,7 @@ async def run_proc(pid):
         "create_pipe": create_pipe,
         "connect": lambda local_id, side: connect(pid, local_id, create_pipe(), side),
         "machine": None, "gc": None, "micropython": None,
-        "__import__": None, "importlib": None,
+        "__import__": None, "importlib": None, "exec": None,
         "timer": Timer
     }
     if p.server:
@@ -101,3 +101,4 @@ def boot():
         
 
     print(f"[BOOT]: {len(procs)} processes linked via Pech-pipes.")
+
