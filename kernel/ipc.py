@@ -26,5 +26,5 @@ class Pipe:
         await self.channels[1 - side].put(data)
 
     async def read(self, side):
-
         return await self.channels[side].get()
+
